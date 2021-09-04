@@ -1,0 +1,21 @@
+{
+  "name": "modulo-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^26.0.8",
+    "jest": "^26.2.2"
+  },
+  "dependencies": {
+    "dinero.js": "^1.8.1",
+    "lodash": "^4.17.20"
+  }
+}

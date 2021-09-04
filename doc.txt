@@ -1,0 +1,8 @@
+# Módulo 1
+  -- Install depedencies
+    0- npm init -y
+    1- npm install jest --global
+    2- yarn add -D jest @types/jest
+    3- yarn jest ||  yarn test:watch
+
+  -- Aulas 1 a 3 teste Calculator
